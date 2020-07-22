@@ -16,15 +16,16 @@ body {
   max-width: 1200px;
   margin: 0 auto;
 }
-.main{
+
+.start{
   width: 100%;
   height: 100vh;
 
-  background: url("project/assets/images/main.jpg")
-    ) center
+  background: url("../images/start.jpg") center
   no-repeat;
   background-size: cover;
 }
+
 h1,h2,h3,h4,h5,h6{
   margin: 0;
 }
